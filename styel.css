@@ -1,0 +1,68 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.box{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    margin-top: 100px;
+    box-shadow:  1px 1px 5px 5px darkblue;
+}
+.taxt h1{
+    text-align: center;
+    color: darkblue;
+}
+.Currency label{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    color: darkblue;
+}
+.Currency input{
+    width: 95%;
+    padding: 5px;
+    margin-left: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bt{
+    margin-top: 15px;
+}
+.one{
+    background-color: darkblue;
+    color: white;
+    width: 45%;
+}
+.tow{
+    background-color: darkblue;
+    color: white;
+    width: 45%;
+}
+
+.bt1{
+    border: none;
+    color: white;
+    background-color: darkblue;
+    padding: 10px;
+    margin-left: 13%;
+    margin-top: 40px;
+    width: 300px;
+}
+.p{
+    background-color: rgba(0, 0, 139, 0.582);
+    width: 300px;
+    height: 40px;
+    margin-left: 13%;
+    margin-top: 20px;
+    text-align: center;
+}
+#result{
+    padding: 4px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    margin: 10px;
+}
